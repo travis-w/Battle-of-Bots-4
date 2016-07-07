@@ -3,6 +3,7 @@
 Now here is a twist. We modified some of the rules of Gomoku to make the game little more fair and interesting.
 - First Player must get an unbroken row of **exactly five** stones horizontally, vertically, or diagonally to win. This rule is applied to first player only. Second player can win by making an unbroken row of five or more stones.
 
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/travis-w/Battle-of-Bots-4/master/gomoku.png" /></div>
 
 We will play it on an 10 X 10 grid simulated as rhombus. The top left of the grid is [0, 0] and the bottom right is [9, 9]. The coordinate of a cell is represented by [row, column] where row increases from top to bottom and column increases from left to right.
 
