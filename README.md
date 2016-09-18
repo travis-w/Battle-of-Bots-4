@@ -1,4 +1,4 @@
-# Battle of Bots 4
+# Gomoku Bot
 This is my entry to the [HackerEarth Battle of Bots 4 competition](https://www.hackerearth.com/battle-of-bots-4/multiplayer/gomoku/description/) (requires login).
 
 ## Objective
